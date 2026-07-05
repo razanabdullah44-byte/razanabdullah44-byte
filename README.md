@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**razanabdullah44-byte/razanabdullah44-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring iOS Developer from Saudi Arabia.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning Swift & SwiftUI
+- 📱 Passionate about iOS Development
+- 💡 Interested in creating useful mobile applications
+- 📚 Always learning new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Build high-quality iOS apps
+- Join Apple Developer Academy
+- Improve my programming and design skills
+
+## 🛠️ Technologies I'm Learning
+- Swift
+- SwiftUI
+- Git & GitHub
+- Xcode
+
+Thank you for visiting my profile!
